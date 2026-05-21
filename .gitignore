@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+!.env.example
+.DS_Store
+*.log
+storage/
+chroma_db/
